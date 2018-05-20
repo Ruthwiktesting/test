@@ -5,5 +5,4 @@ hello
 hai
 how are u
 test
-deploy
 devops
